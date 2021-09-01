@@ -1,2 +1,0 @@
-# DesignMmode
-dedign patterns learning
